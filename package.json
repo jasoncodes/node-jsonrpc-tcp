@@ -12,13 +12,13 @@
   },
   "author": { "name": "Jared Hanson", "email": "jaredhanson@gmail.com", "url": "http://www.jaredhanson.net/" },
   "licenses": [ {
-    "type": "MIT",
-    "url": "http://www.opensource.org/licenses/MIT" 
+      "type": "MIT",
+      "url": "http://www.opensource.org/licenses/MIT"
   } ],
   "main": "./lib/jsonrpc-tcp",
   "dependencies": {
     "pkginfo": "0.2.x",
-    "jsonsp": "0.2.x"
+    "json-stream": "^0.2.2"
   },
   "devDependencies": {
     "vows": "0.6.x"

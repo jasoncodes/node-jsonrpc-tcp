@@ -1,4 +1,4 @@
-var jsonrpc = require('jsonrpc-tcp');
+var jsonrpc = require('../lib/jsonrpc-tcp');
 
 
 function echo(msg, result) { 

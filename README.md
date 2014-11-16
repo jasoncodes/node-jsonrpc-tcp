@@ -1,3 +1,7 @@
+# Diff from the original code
+ - No dependency to JSONSP 
+ - Instead, use json-stream: new-line separated json parsing
+
 # JSONRPC-TCP
 
 [JSON-RPC](http://json-rpc.org/) over TCP/IP for [Node](http://nodejs.org).
